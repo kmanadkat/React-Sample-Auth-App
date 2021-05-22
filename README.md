@@ -1,6 +1,6 @@
-# React Redux Auth & Todo App
+# React Redux Protected Route & Todo App
 
-This is a scaffold like React Redux project. It contains a primary auth & route protection. After signing in you would see a classic Todo app. It is intended to be used by my Medium blog post readers as a sample project to learn how to deploy React Redux apps to Googl Firebase. 
+This is a scaffold like React Redux project. It contains a primary protected route. After signing in you would see a classic Todo app. It is intended to be used by my blog post readers as a sample project to learn how to deploy React Redux apps to Googl Firebase. 
 
 ## Demo
 
